@@ -4,7 +4,7 @@
 
 ###### ICS3U - Mr. Jamieson 🐠
 
-- Some of the basic lesson information is on my website: [www.brash.ca/ics3uc/4/1](https://www.brash.ca/ics3uc/4/1)
+- Some of the basic lesson information is on my website: [www.brash.ca/ics3uc/4/1](https://sites.google.com/ocsb.ca/ics3u-ash/units/unit-4-modular-and-lists/4-1)
 - Make sure you have installed the [Live Preview Extension](vscode:extension/ms-vscode.live-server) in VSCode.
   - After installing the extension, you _might_ want to go to the settings for it and change the `Open Preview Target` to "External Browser"
 
